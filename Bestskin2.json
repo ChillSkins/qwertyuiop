@@ -1,5 +1,5 @@
 {
-  "name": "SFC (MultiColor)",
+  "name": "rainbow",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Super_Famicom.png",
   "author": "unperfect",
   "description": "Now you're playing with Super Power ;)",
@@ -13,7 +13,7 @@
       "cell": "background-color:#222222;color: #e0e0e0",
       "cellChevron": "color: #e0e0e0",
       "toolbar": "background-color: #222222;color:white",
-      "emulatorBackground": "background: url(https://i.pinimg.com/originals/84/3e/1d/843e1df43a0eae26ecf513be3cb7f7e8.png); background-repeat: no-repeat; background-size:cover; background-position-y: bottom; background-position-x: center;",
+      "emulatorBackground": "background: url(https://78.media.tumblr.com/6daa3a554bfcc644027e75c2ce685e14/tumblr_ourz0uSLR61rioxyio1_500.gif); background-repeat: no-repeat; background-size:cover; background-position-y: bottom; background-position-x: center;",
       "gradient": "background-image: linear-gradient(-180deg, #1e1e1e 0%, #222222 100%)!important",
       "emulatorScreen": "",
       "triggerL": "background-color: #00A172;color:green",
